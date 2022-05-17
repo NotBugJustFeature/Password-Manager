@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/Password-Manager/static/css/main.01917004.css",
+    "main.js": "/Password-Manager/static/js/main.6a1544bd.js",
+    "static/js/787.bed42180.chunk.js": "/Password-Manager/static/js/787.bed42180.chunk.js",
+    "static/media/gear.svg": "/Password-Manager/static/media/gear.942ab870d1696e112c8d633c5051699a.svg",
+    "static/media/eye-slash.svg": "/Password-Manager/static/media/eye-slash.3b1d24d45f36c63a871c70f8b74dbf62.svg",
+    "index.html": "/Password-Manager/index.html",
+    "static/media/card-list.svg": "/Password-Manager/static/media/card-list.9164eb18f1b995364023201a58ea97c8.svg",
+    "static/media/key.svg": "/Password-Manager/static/media/key.29f7fad9564e0d7c87eb4f0ac9234dc7.svg",
+    "static/media/trash.svg": "/Password-Manager/static/media/trash.43abd16f54731d4913dce221c9e37631.svg",
+    "static/media/eye.svg": "/Password-Manager/static/media/eye.e99d74334ad6397152628e2098cbc42b.svg",
+    "static/media/archive.svg": "/Password-Manager/static/media/archive.e59e2e06c4655a6f3d9ad5e96fb0776a.svg",
+    "static/media/person.svg": "/Password-Manager/static/media/person.1694d0ed32ad6aedeaf442ce564bc2cb.svg",
+    "static/media/x-lg.svg": "/Password-Manager/static/media/x-lg.3c42a9be8cd154800de3cbb3f4c51988.svg",
+    "static/media/arrow-clockwise.svg": "/Password-Manager/static/media/arrow-clockwise.2ba775456dd6033575190ba73b148bac.svg",
+    "static/media/check-lg.svg": "/Password-Manager/static/media/check-lg.6fe048a4880199518d7f8eb12152ed04.svg",
+    "static/media/lock.svg": "/Password-Manager/static/media/lock.9c682a8caa8ceb8b9599bb8fa7c6a59a.svg",
+    "static/media/plus-lg.svg": "/Password-Manager/static/media/plus-lg.84478f1596d8d93aef242201a227b42b.svg",
+    "static/media/caret-left-fill.svg": "/Password-Manager/static/media/caret-left-fill.438ad83b2317c15ad0ed662cf6dd581f.svg",
+    "static/media/caret-down-fill.svg": "/Password-Manager/static/media/caret-down-fill.27c49128156891d28b6305f401c30063.svg",
+    "main.01917004.css.map": "/Password-Manager/static/css/main.01917004.css.map",
+    "main.6a1544bd.js.map": "/Password-Manager/static/js/main.6a1544bd.js.map",
+    "787.bed42180.chunk.js.map": "/Password-Manager/static/js/787.bed42180.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01917004.css",
+    "static/js/main.6a1544bd.js"
+  ]
+}
